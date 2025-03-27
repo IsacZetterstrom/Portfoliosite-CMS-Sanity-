@@ -6,6 +6,7 @@ import { useState } from "react";
 import MenuIcon from "@mui/icons-material/Menu";
 import CloseIcon from "@mui/icons-material/Close";
 
+// ---WILL BE REPLACED LATER --- will use navlinks from the CMS further in. 
 const navLinks = [
     { path: "/", label: "Home" },
     { path: "/projects", label: "Projects" },
